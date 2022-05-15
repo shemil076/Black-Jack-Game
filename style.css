@@ -1,0 +1,22 @@
+body{
+    background-image: url(images/background.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#mainHead{
+    font-size: 50px;
+    font-family:cursive;
+    color: white;
+    text-align: center;
+}
+
+#btn-generateCard{
+    font-size:20px;
+    font-weight: bold;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius:5px;
+    margin-left: 20%;
+}
