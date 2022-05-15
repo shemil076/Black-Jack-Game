@@ -6,8 +6,6 @@ body{
 
 #mainHead{
     font-size: 50px;
-    font-family:cursive;
-    color: white;
     text-align: center;
 }
 
@@ -19,4 +17,16 @@ body{
     cursor: pointer;
     border-radius:5px;
     margin-left: 20%;
+}
+
+.lables{
+    color: white;
+    font-family:cursive;
+}
+
+#mainResult{
+    text-align: center;
+    font-size: 40px;
+    border: white 3px solid
+  
 }
