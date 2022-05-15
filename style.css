@@ -17,7 +17,7 @@ body{
     cursor: pointer;
     border-radius:5px;
     margin-left: 20%;
-    
+
 }
 
 .lables{
@@ -30,4 +30,12 @@ body{
     font-size: 40px;
     border: white 3px solid
   
+}
+
+#btn-restart{
+    display: none;
+}
+
+img{
+    margin-left: 10px;
 }
